@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2019-06-25 10:05:36
+Built-By: ThingWorx EMEA-RO PRESALES IOT
+
+Name: Kube_Extensions
+Package-Version: 6.0-SNAPSHOT
+Package-Title: Kube Interface
+Package-Vendor: ThingWorx EMEA-RO PRESALES IOT
+
