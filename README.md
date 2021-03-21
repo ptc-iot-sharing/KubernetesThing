@@ -1,5 +1,14 @@
 # KubeThing
 
+**Disclaimer**
+
+This repository is provided "AS-IS" with **no warranty or support** given. This is not an official or supported product/use case. 
+
+Download the extension package from
+
+https://github.com/ptc-iot-sharing/KubernetesThing/releases/download/v1.0.263/Kube.zip
+
+
 Kubernetes is an open-source container orchestration system for automating application deployment, scaling, and management. It was originally designed by Google.
 
 This is a ThingWorx extension that implements part of the Kubernetes API and uses the Java client library to run commands on a Kubernetes master node.
