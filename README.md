@@ -62,4 +62,4 @@ after you have successfully started the Kubernetes master node.
 
 #### Configuration
 
-The configuration page of the Kubernetes Thing can be left unchanged as the fields are not linked to variables in the code. These will be added in a future version.
+The configuration page of the Kubernetes Thing can be left unchanged as the fields are not usable. To change the default configuration for the target server, the extension must be rebuilt with the variables changed in the source code.
